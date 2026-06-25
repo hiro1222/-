@@ -1,0 +1,23 @@
+﻿  main.cpp
+C:\Users\hiro1\OneDrive\デスクトップ\HAL\CP11\HEW\HEW\conioex_New.h(27,1): warning C4005: 'M_PI': マクロが再定義されました。
+  (ソース ファイル 'main.cpp' をコンパイルしています)
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math_defines.h(28,1):
+  'M_PI' の以前の定義を確認してください
+  
+C:\Users\hiro1\OneDrive\デスクトップ\HAL\CP11\HEW\HEW\conioex_New.h(782,34): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+  (ソース ファイル 'main.cpp' をコンパイルしています)
+  
+C:\Users\hiro1\OneDrive\デスクトップ\HAL\CP11\HEW\HEW\conioex_New.h(799,34): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+  (ソース ファイル 'main.cpp' をコンパイルしています)
+  
+C:\Users\hiro1\OneDrive\デスクトップ\HAL\CP11\HEW\HEW\main.cpp(463,12): warning C4244: '引数': 'time_t' から 'unsigned int' への変換です。データが失われる可能性があります。
+C:\Users\hiro1\OneDrive\デスクトップ\HAL\CP11\HEW\HEW\main.cpp(593,12): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\hiro1\OneDrive\デスクトップ\HAL\CP11\HEW\HEW\main.cpp(594,12): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\hiro1\OneDrive\デスクトップ\HAL\CP11\HEW\HEW\main.cpp(1188,8): warning C4553: '==': 式の結果が使用されていません。'=' を意図していますか?
+C:\Users\hiro1\OneDrive\デスクトップ\HAL\CP11\HEW\HEW\main.cpp(440,6): warning C4101: 'a': ローカル変数は 1 度も使われていません。
+C:\Users\hiro1\OneDrive\デスクトップ\HAL\CP11\HEW\HEW\main.cpp(441,6): warning C4101: 'b': ローカル変数は 1 度も使われていません。
+C:\Users\hiro1\OneDrive\デスクトップ\HAL\CP11\HEW\HEW\main.cpp(410,12): warning C4101: 'y0': ローカル変数は 1 度も使われていません。
+C:\Users\hiro1\OneDrive\デスクトップ\HAL\CP11\HEW\HEW\main.cpp(435,8): warning C4101: 'N_Y': ローカル変数は 1 度も使われていません。
+C:\Users\hiro1\OneDrive\デスクトップ\HAL\CP11\HEW\HEW\main.cpp(410,8): warning C4101: 'x0': ローカル変数は 1 度も使われていません。
+C:\Users\hiro1\OneDrive\デスクトップ\HAL\CP11\HEW\HEW\main.cpp(434,8): warning C4101: 'N_X': ローカル変数は 1 度も使われていません。
+  HEW.vcxproj -> C:\Users\hiro1\OneDrive\デスクトップ\HAL\CP11\HEW\x64\Debug\HEW.exe
